@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/activity</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/issues</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/pulls</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/actions</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/security</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/blob/main/DOC_RFID_Transponder_Dutch.pdf</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/blob/main/README.md</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/blob/main/index.html</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/releases</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/search?q=repo%3ARubenSchoonbaert%2FRFID-Transponder++language%3AC%2B%2B</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/search?q=repo%3ARubenSchoonbaert%2FRFID-Transponder++language%3AHTML</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels?sort=name-asc</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels?sort=name-desc</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels?sort=count-desc</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels?sort=count-asc</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/bug</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/documentation</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/duplicate</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/enhancement</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/good%20first%20issue</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/help%20wanted</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/invalid</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/question</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/labels/wontfix</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/RubenSchoonbaert/RFID-Transponder/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-12-21T21:44:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
