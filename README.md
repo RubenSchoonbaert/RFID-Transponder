@@ -35,3 +35,9 @@ Applications
     Use as an RFID/NFC tag in systems requiring dynamic, writable RFID data storage.
     Embedded designs requiring compact, integrated EEPROM and I2C functionality.
     Systems needing programmable and customizable tag IC solutions.
+
+Schematic
+
+![image](https://github.com/user-attachments/assets/7e801ec9-1cf5-4703-9dd7-750b8d9d88db)
+
+
